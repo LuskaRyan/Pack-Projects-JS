@@ -1,0 +1,76 @@
+#body{
+    
+    background-image: url(../images/zorogif.gif);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+#caixaPrincipal {
+    width: 400px;
+    height: 650px;
+    background-color: #c3cba0;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 3px black;
+    border-radius: 30px;
+}
+
+label {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#titulo {
+    border-bottom: solid 3px black;
+}
+
+#titulo h1 {
+    font-size: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 3px;
+}
+
+.input {
+    width: 350px;
+    height: 100px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input input {
+    width: 350px;
+    height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+#calcular {
+    margin-left: 75px;
+    margin-right: 75px;
+    width: 250px;
+    height: 30px;
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    letter-spacing: 3px;
+    border: solid 1px black;
+}
+
+#resultado {
+    margin-left: 25px;
+    margin-right: 25px;
+    width: 350px;
+    height: 125px;
+    border: solid 2px black;
+    border-radius: 15px;
+    background-color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding: 16px;
+    box-sizing: border-box;
+}
